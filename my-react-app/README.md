@@ -13,6 +13,7 @@ Agora, vamos criar o projeto React utilizando o Vite. No terminal, navegue até 
 ```bash
   npm create vite@latest my-react-app
 ```
+Agora, selecione a opção `React`, pressione a tecla ENTER e escolha a opção `JavaScript`.
 
 Isso irá criar uma nova pasta chamada my-react-app com a estrutura inicial do projeto React utilizando o Vite.
 
